@@ -1,0 +1,30 @@
+<html>
+
+<head>
+	<link rel="stylesheet" type="text/css" href="style.css">
+</head>
+
+<body>
+	
+	<div id="header"><h1><i><center>Liam's Blog</center></h1></i></div>
+	
+	<div id="content">
+		<center><h1>NEWS</h1></center>
+		<p><center>School holidays in 2 DAYS!</center></p>
+	</div>
+
+<div id="main">
+	<div id="post1">
+		<center><p>posted on 24/6/2015</center></p>
+		<p><i><center>This week I haven't been to school because i've been sick the doctor said that i have to stay home for the rest of the week. You would think i would be happy but i'm not because on thusday we have a swap meet but i have to stay home -liam</p></i></center>
+		<center><p>By Liam Jarvis</center><p>
+	</div>
+</div>
+	
+	<div id="footer">
+		<a href="https://github.com/liamjarvisman"><center><button><font color ="red">My Github</button></font></center></a>
+		<a href="https://www.youtube.com"><center><button><font color ="red">Youtube</button></font></center></a>
+	</div>
+</body>
+
+</html>
